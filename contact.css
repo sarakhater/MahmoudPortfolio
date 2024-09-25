@@ -1,0 +1,129 @@
+.grey-line{
+    margin-left: 70px;
+}
+.contactusP{
+    margin-top: 5px;
+}
+.contactusP p{
+    color: grey;
+    font-size: 15px;
+}
+.contactusP span{
+    color: black;
+}
+.outer_grey_div{
+    height: 24px;
+    width: 328px;
+    background-color: #EDEDED;
+    border-radius: 5px;
+}
+.inner_blue_div{
+    height: 24px;
+    width: 95%;
+    background-color: #0050d3;;
+}
+.text{
+    width: 578px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.inner_blue_div2{
+    width: 90%;
+    height: 24px;
+    background-color: #0050d3;;
+}
+.inner_blue_div3{
+    width: 60%;
+    height: 24px;
+    background-color: #0050d3;;
+}
+.inner_blue_div4{
+    width: 65%;
+    height: 24px;
+    background-color: #0050d3;;
+}
+.inner_blue_div9{
+    width: 95%;
+    height: 24px;
+    background-color: #0050d3;;
+}
+.inner_blue_div5{
+    width: 75%;
+    height: 24px;
+    background-color: #0050d3;;
+}
+.inner_blue_div6{
+    width: 90%;
+    height: 24px;
+    background-color: #0050d3;;
+}
+.self-information p{
+    font-size: 14px;
+}
+.smallP{
+    width: 20px;
+}
+.second_section{
+    margin-left: -200px;
+}
+.self-information{
+    width: 800px;
+    padding-bottom: 40px;
+}
+.grey_h1{
+    color: grey;
+    font-size: 18px;
+    font-weight: 900;
+    margin-left: 20px;
+}
+.texts{
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.projects img{
+    width: 300px;
+    height: 200px;
+    border: 0.5px solid gray;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.projects1 img{
+    width: 300px;
+    height: 200px;
+    border: 0.5px solid gray;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.grey_div{
+    background-color: #0051d375;
+    width: 300px;
+    height: 200px;
+    margin-top: -200px;
+    color: white;
+}
+.grey_div h2{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 200;
+}
+.grey_div {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+}
+
+/* Show grey_div when either the image or grey_div is hovered */
+.projects_img:hover + .grey_div,
+.grey_div:hover {
+    opacity: 1;
+    visibility: visible;
+}
+.texts a{
+    text-decoration: none;
+    color: black;
+}
+.projects1{
+    margin-left: 150px;
+}

@@ -1,0 +1,166 @@
+body{
+    background-color: #f6f6f6;
+    font-family: "Inter";
+}
+.white_section{
+    background-color: #fff;
+    padding: 15px;
+    width: 380px;
+    box-shadow: 0 0 5px 1px #0000002e;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 50px;
+    height: 800px;
+}
+.myimg{
+    width: 340px;
+    height: 348px;
+}
+.Myname{
+    font-size: 25px;
+    font-weight: 900;
+    color: #0050d3;
+}
+.myjob{
+    color: grey;
+    font-weight: 300;
+    font-size: 17px;
+}
+.blue_glasses_icon{
+    width: 50px;
+    height: 50px;
+    background-color: #0050d3;
+    padding: 4px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -30px;
+}
+.blue_glasses_icon img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    margin-top: 12px;
+}
+.personal_inf{
+    color: grey;
+    font-weight: 300;
+    margin-left: 30px;
+}
+.personal_inf span{
+    color: black;
+    font-weight: 400;
+}
+.firstp{
+    margin-top: 30px;
+}
+.social i{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+.social{
+    margin-left: 85px;
+}
+.downlaodBtn{
+    background-color: #0050d3;
+    padding: 30px;
+    width: 225px;
+    height: 35px;
+    margin-top: 40px;
+    border-radius: 50px;
+    margin-left: 15%;
+    margin-bottom: 30px;
+    text-decoration: none;
+    border: #0050d3;
+}
+.downlaodBtn p{
+    margin-top: -13px;
+    margin-left: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.fa-circle-down{
+    margin-left: 20px;
+}
+.navbar{
+    background-color: #fff;
+    box-shadow: 0 0 5px 1px #0000002e;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 68px;
+    padding-right: 20px;
+    margin-left: 30px;
+}
+.blue_home{
+    background-color: #0050d3;
+    width: 70px;
+    height: 68px;
+    margin-top: -8px;
+    border-radius: 10px 0px 0px 10px;
+    padding: 20px 22px;
+}
+.tabs{
+    text-decoration: none;
+    color: black;
+    margin-left: 15px;
+    margin-top: -10px;
+}
+.navbar a:hover{
+    color: #0050d3;
+}
+.hire_me_btn{
+    background-color: #0050d3;
+    color: #fff;
+    margin-left: 180px;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 50px;
+    padding: 5px 20px;
+    width: 150px;
+    height: 50px;
+    margin-top: -10px;
+    border: #0050d3;
+}
+
+.self-information{
+    margin-left: 30px;
+    background-color: #fff;
+    box-shadow: 0 0 5px 1px #0000002e;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    padding-bottom: 150px;
+}
+.self-information h1{
+    font-size: 25px;
+    font-weight: 900;
+}
+.self-information p{
+    width: 500px;
+    margin-top: 10px;
+}
+.blue-line{
+    width: 60px;
+    height: 10px;
+    background-color: #0050d3;
+    border-radius: 10px;
+}
+.grey-line{
+    width: 1.5px;
+    height: 250px;
+    background-color: rgb(165, 165, 165);
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.active_a{
+    color: #0050d3;
+}
+.blue__line{
+    background-color: #0050d3;
+    width: 60px;
+    border-radius: 10px;
+    height: 7px;
+    margin-left: 5px;
+}
